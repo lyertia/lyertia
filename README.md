@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyertia&label=Profile%20views&color=0e75b6&style=flat" alt="lyertia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyertia" alt="lyertia" /></a> </p>
 
 - 🔭 I’m currently working on [Lyessa](https://lyessa.live)
 
