@@ -13,6 +13,6 @@
 - 📫 How to reach me **lyertiaxd@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyertia&show_icons=true&theme=dracula&locale=en" alt="lyertia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyertia&theme=midnight-purple" alt="lyertia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyertia&theme=dark" alt="lyertia" /></p>
