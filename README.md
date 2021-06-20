@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **JS, PHP, HTML**
 
 
-- 📫 How to reach me **lyertia@apptime.tech**
+- 📫 How to reach me **lyertia@lyessa.live**
 
 
 
