@@ -11,7 +11,7 @@
 - 📫 How to reach me **lyertia@lyessa.live**
 
 <div align="center">
-    <a href="https://discord.com/users/693501893778997290" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+    <a href="https://discord.gg/akame" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
 
