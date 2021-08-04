@@ -14,7 +14,6 @@
     <a href="https://discord.com/users/693501893778997290" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyertia&theme=dracula" alt="lyertia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyertia&show_icons=true&theme=dracula&locale=en" alt="lyertia" /></p>
 
