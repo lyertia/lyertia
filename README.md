@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Lyessa](https://lyessa.live)
 
 
-- 📫 How to reach me **lyertia@lyessa.live**
+- 📫 How to reach me **lyertiadev@gmail.com**
 
 <div align="center">
     <a href="https://lyessa.live/Discord" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
