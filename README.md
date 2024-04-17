@@ -10,7 +10,7 @@
 - 📫 How to reach me **mail@lyertia.com.tr**
 
 <div align="center">
-    <a href="https://lyertia.eu.org" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+    <a href="https://lyertia.com.tr" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/693501893778997290/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 
 
